@@ -1,0 +1,9 @@
+{
+"name":"<CHANGE_PARAMETER_1>",
+"lastName":"<CHANGE_PARAMETER_2>",
+"address":{
+"zipCode":"<CHANGE_SUBPARAMETER_1>",
+"street":"<CHANGE_SUBPARAMETER_2>",
+"number":"<CHANGE_SUBPARAMETER_3>"
+}
+}
